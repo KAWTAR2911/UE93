@@ -1,0 +1,43 @@
+{
+    "fr": {
+      "nav_accueil": "Accueil",
+      "nav_master": "Master-CRN",
+      "nav_ressources": "Ressources",
+      "nav_ue_capsule": "UE93 - Capsule",
+      "nav_ue_video": "UE93 - Vidéo libre",
+      "nav_ue_tutoriel": "UE93 - Tutoriel",
+      "nav_ue_infographie": "UE93 - Infographie",
+      "nav_metadonnee": "Métadonnée",
+      "nav_site": "Site",
+      "nav_podcasts": "Podcasts",
+      "nav_contact": "Contact",
+      "nav_langue": "Langue",
+      "hero_title": "Digitale<span>Xplorateur.</span>",
+      "hero_description": "Plateforme dédiée à mes travaux et projets réalisés au sein du Master conception des ressources numériques.",
+      "cta_title": "Vision de <em>DigitaleXplorateur</em>",
+      "cta_description": "Au cours de mon parcours en master de conception des ressources numériques, j'ai eu l'opportunité de m'immerger dans des travaux stimulants qui ont façonné ma compréhension approfondie du domaine. Ces travaux m'ont permis de mettre en pratique les compétences techniques acquises tout au long du programme.",
+      "about_title": "Mon Master",
+      "about_description": "Parmi les usages définis, l'accent est mis sur l'encouragement à l'apprentissage, la promotion de l'accessibilité et la stimulation de l'innovation au sein de cet espace numérique."
+    },
+    "en": {
+      "nav_accueil": "Home",
+      "nav_master": "Master-CRN",
+      "nav_ressources": "Resources",
+      "nav_ue_capsule": "UE93 - Capsule",
+      "nav_ue_video": "UE93 - Video libre",
+      "nav_ue_tutoriel": "UE93 - Tutorial",
+      "nav_ue_infographie": "UE93 - Infographic",
+      "nav_metadonnee": "Metadata",
+      "nav_site": "Site",
+      "nav_podcasts": "Podcasts",
+      "nav_contact": "Contact",
+      "nav_langue": "Language",
+      "hero_title": "Digitale<span>Xplorer.</span>",
+      "hero_description": "Platform dedicated to my works and projects carried out within the Master of Digital Resource Design.",
+      "cta_title": "Vision of <em>DigitalExplorer</em>",
+      "cta_description": "During my Master's program in digital resource design, I had the opportunity to immerse myself in stimulating work that shaped my deep understanding of the field. These works allowed me to apply the technical skills acquired throughout the program.",
+      "about_title": "My Master",
+      "about_description": "Among the defined uses, the emphasis is on encouraging learning, promoting accessibility, and stimulating innovation within this digital space."
+    }
+  }
+  
